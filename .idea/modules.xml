@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CursoNelioAlves.iml" filepath="$PROJECT_DIR$/CursoNelioAlves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez/Model.iml" filepath="$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez.iml" filepath="$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez.Model.iml" filepath="$PROJECT_DIR$/ProjetoXadrez/ProjetoXadrez.Model.iml" />
       <module fileurl="file://$PROJECT_DIR$/Secao10/Secao10.iml" filepath="$PROJECT_DIR$/Secao10/Secao10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Secao13/Secao13.iml" filepath="$PROJECT_DIR$/Secao13/Secao13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Secao14/Secao14.iml" filepath="$PROJECT_DIR$/Secao14/Secao14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Secao15/Secao15.iml" filepath="$PROJECT_DIR$/Secao15/Secao15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoXadrez/model.ProjetoXadrez.iml" filepath="$PROJECT_DIR$/ProjetoXadrez/model.ProjetoXadrez.iml" />
     </modules>
   </component>
 </project>
